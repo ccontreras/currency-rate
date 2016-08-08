@@ -3,13 +3,13 @@
 namespace becrox;
 
 /**
- * Convert currency to any valid symbol
+ * Get the current rate for a currency.
  *
  * @author Cesar Contreras <ccdl15c@gmail.com>
  * @package linom
  * @version v0.0.1-alpha
  */
-class CurrencyConverter {
+class CurrencyRate {
 
     /** @var string The converter service endpoint. */
     private static $endpoint = 'http://www.google.com/finance/converter';
