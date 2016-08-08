@@ -1,6 +1,6 @@
 <?php
 
-namespace linom;
+namespace becrox;
 
 /**
  * Convert currency to any valid symbol
