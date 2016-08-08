@@ -1,0 +1,20 @@
+{
+    "name": "linom/currency-convertor",
+    "description": "Simple client library to convert currencies.",
+    "type": "library",
+    "version": "v0.0.1-alpha",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cesar Contreras",
+            "email": "ccdl15c@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "linom\\": "src/"
+        }
+    }
+}
