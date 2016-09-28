@@ -6,7 +6,7 @@ namespace becrox;
  * Get the current rate for a currency.
  *
  * @author Cesar Contreras <ccdl15c@gmail.com>
- * @package linom
+ * @package becrox
  * @version v0.0.1-alpha
  */
 class CurrencyRate {
